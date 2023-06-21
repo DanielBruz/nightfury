@@ -13,10 +13,10 @@
 
 					<ul class="menu controls">
 						<li data-from="left" class="selected"><a href="#vsetko">Všetko</a></li>
-						<li data-from="right"><a href="web.html">Web</a></li>
-						<li data-from="left"><a href="branding.html">Branding</a></li>
-						<li data-from="right"><a href="fotografia.html">Fotografia</a></li>
-						<li data-from="left"><a href="video.html">Video</a></li>
+						<li data-from="right"><a href="web.php">Web</a></li>
+						<li data-from="left"><a href="branding.php">Branding</a></li>
+						<li data-from="right"><a href="fotografia.php">Fotografia</a></li>
+						<li data-from="left"><a href="video.php">Video</a></li>
 					</ul>
 
 				</div>

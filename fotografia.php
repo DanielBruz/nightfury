@@ -12,11 +12,11 @@
 					<h2 class="text-center">Toto je veta, ktorá je tu napísaná, ktorá má hovoriť o tom, ako veľmi sme šikovní sme v našom portfóliovaní a tvorbe vecí, ktoré tvoríme a taktiež vyrábame.</h2>
 
 					<ul class="menu controls">
-						<li data-from="left"><a href="index.html">Všetko</a></li>
-						<li data-from="right"><a href="web.html">Web</a></li>
+						<li data-from="left"><a href="index.php">Všetko</a></li>
+						<li data-from="right"><a href="web.php">Web</a></li>
 						<li data-from="left"><a href="#branding">Branding</a></li>
 						<li data-from="right" class="selected"><a href="#fotografia">Fotografia</a></li>
-						<li data-from="left"><a href="video.html">Video</a></li>
+						<li data-from="left"><a href="video.php">Video</a></li>
 					</ul>
 
 				</div>
