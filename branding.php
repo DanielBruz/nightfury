@@ -55,5 +55,3 @@
 
 	<?php include 'footer.php' ?>
 
-	<!-- scripts -->
-	<script src="js/lightbox.js"></script>
