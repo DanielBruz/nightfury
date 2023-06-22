@@ -29,5 +29,7 @@
 		</div>
 	</footer>
 
-<!-- scripts -->
-<script src="js/lightbox.js"></script>
+	<!-- scripts -->
+	<script src="js/lightbox.js"></script>
+</body>
+</html>
