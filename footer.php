@@ -6,8 +6,8 @@
 			</p>
 
 			<ul class="menu personal">
-				<li><i class="fa fa-phone"></i><a href="tel:+421900111222">+421 900 111 222</a></li>
-				<li><i class="fa fa-envelope"></i><a href="mailto:email@mailinator.com">email@mailinator.com</a></li>
+					<li><i class="fa fa-phone"></i><a href="tel:<?php echo $contact_phone; ?>"><?php echo $contact_phone; ?></a></li>
+					<li><i class="fa fa-envelope"></i><a href="mailto:<?php echo $contact_email; ?>"><?php echo $contact_email; ?></a></li>
 			</ul>
 		</div>
 	</aside>
