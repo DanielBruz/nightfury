@@ -10,7 +10,7 @@
 					<li><i class="fa fa-envelope"></i><a href="mailto:<?php echo $contact_email; ?>"><?php echo $contact_email; ?></a></li>
 			</ul>
 		</div>
-	</aside>
+</aside>
 
 <footer>
 		<div class="container">
@@ -27,7 +27,7 @@
 				<li><a href="contact.php">Kontakt</a></li>
 			</ul>
 		</div>
-	</footer>
+</footer>
 
 	<!-- scripts -->
 	<script src="js/lightbox.js"></script>
